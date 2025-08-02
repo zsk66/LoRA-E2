@@ -1,6 +1,6 @@
 # LoRA-E2: Effective and Efficient Low-rank Adaptation
 
-This repository contains the source code for the paper "LoRA-E2: Effective and Efficient Low-rank Adaptation". The project explores the use of Low-rank Adaptation (LoRA) techniques to enhance the performance and efficiency of transformer-based models.
+This repository contains the source code for the paper "LoRA-E2: Effective and Efficient Low-rank Adaptation". 
 
 ## Repository Structure
 
