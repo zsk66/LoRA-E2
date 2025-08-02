@@ -9,31 +9,6 @@ The repository is organized into two main directories:
 - **NLG**: Contains code for training the **Llama2-7B** model using the **MetaMathQA** dataset.
 - **NLU**: Contains code for training the **T5-base** model using the **GLUE** dataset.
 
-### Directory Overview
-
-LoRA-E2/
-├── NLG/
-│ ├── data/
-│ ├── logs/
-│ ├── models/
-│ ├── results/
-│ ├── evaluate.py
-│ ├── main.py
-│ ├── utils.py
-├── NLU/
-│ ├── data/
-│ ├── models/
-│ ├── results/
-│ ├── convert.py
-│ ├── main.py
-│ ├── utils.py
-
-
-### NLG: Llama2-7B with MetaMathQA
-This folder contains the code and configurations for training the **Llama2-7B** model. The training is done on the **MetaMathQA** dataset. 
-
-### NLU: T5-base with GLUE
-This folder contains the code and configurations for training the **T5-base** model using the **GLUE** dataset. 
 
 ## Installation
 
